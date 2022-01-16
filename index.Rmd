@@ -1,0 +1,7 @@
+---
+title: "Kyle Weise"
+description: |
+  Welcome to my personal website!
+  
+site: distill::distill_website
+---
