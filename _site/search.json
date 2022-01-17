@@ -5,28 +5,21 @@
       "title": "Kyle Weise",
       "author": [],
       "contents": "\n\n          \n          \n          Kyle Weise\n          \n          \n          Home\n          About\n          Projects\n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Kyle Weise\n            \n            \n              \n                \n            \n          \n        \n        \n        \n          \n            \n            coming soon\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Kyle Weise\n            \n            \n              \n                \n                                  \n              \n            \n            \n              \n              coming soon\n              \n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2022-01-16T22:26:55-05:00"
+      "last_modified": "2022-01-16T22:38:01-05:00"
     },
     {
       "path": "index.html",
       "title": "",
       "author": [],
       "contents": "\n\n          \n          \n          Kyle Weise\n          \n          \n          Home\n          About\n          Projects\n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              \n            \n            \n              \n                \n            \n          \n        \n        \n        \n          \n            \n            d-title h1 {\n              font-size: 0px;\n            }\n            I am a 28 year-old software engineer originally from Brookfield, Connecticut. I currently work as an Associate Informatics Engineer at Rheos Medicines in Cambridge, MA where I live at the intersection of data engineering, application development, and immunometabolism. When I’m not coding, I enjoy traveling, playing soccer, and having too many craft-brewed IPAs.\n            \n            Education\n            Northeastern Univeristy | Boston, MA\n            M.S. in Bioinformatics | 2016 - 2018\n            Eastern Connecticut State University | Willimantic, CT\n            B.S. in Computer Science | 2013 - 2016\n            \n            \n            Relevant Experience\n            Rheos Medicines | Associate Informatics Engineer | Jul 2021 – Present\n            RCH Solutions | Software Developer / Data Manager | Nov 2019 – Jun 2020\n            Heidelberg University, the Russell Lab | Research Intern (Protein Evolution) | Jun 2018 – Sep 2018\n            Celgene (now part of Bristol-Myers Squibb) | Intern - Graduate 1st Year - Scientific | Jun 2017 – Dec 2017\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              \n            \n            \n              \n                \n                                  \n              \n            \n            \n              \n              d-title h1 {\n                font-size: 0px;\n              }\n              I am a 28 year-old software engineer originally from Brookfield, Connecticut. I currently work as an Associate Informatics Engineer at Rheos Medicines in Cambridge, MA where I live at the intersection of data engineering, application development, and immunometabolism. When I’m not coding, I enjoy traveling, playing soccer, and having too many craft-brewed IPAs.\n              \n              Education\n              Northeastern Univeristy | Boston, MA\n              M.S. in Bioinformatics | 2016 - 2018\n              Eastern Connecticut State University | Willimantic, CT\n              B.S. in Computer Science | 2013 - 2016\n              \n              \n              Relevant Experience\n              Rheos Medicines | Associate Informatics Engineer | Jul 2021 – Present\n              RCH Solutions | Software Developer / Data Manager | Nov 2019 – Jun 2020\n              Heidelberg University, the Russell Lab | Research Intern (Protein Evolution) | Jun 2018 – Sep 2018\n              Celgene (now part of Bristol-Myers Squibb) | Intern - Graduate 1st Year - Scientific | Jun 2017 – Dec 2017\n              \n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2022-01-16T22:26:55-05:00"
+      "last_modified": "2022-01-16T22:38:01-05:00"
     },
     {
       "path": "projects.html",
       "title": "Projects",
-      "description": "A new article created using the Distill format.\n",
-      "author": [
-        {
-          "name": "Nora Jones",
-          "url": "https://example.com/norajones"
-        }
-      ],
-      "date": "`r Sys.Date()`",
-      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-01-16T22:26:57-05:00"
+      "author": [],
+      "contents": "\nComing soon\n\n\n\n",
+      "last_modified": "2022-01-16T22:38:02-05:00"
     }
   ],
   "collections": []
