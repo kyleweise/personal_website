@@ -9,6 +9,9 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Projects"
+      href: projects.html
     - icon: fab fa-github
       href: https://github.com/kyleweise/personal_website
+
 output: distill::distill_article

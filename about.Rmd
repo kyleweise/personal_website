@@ -1,46 +1,9 @@
 ---
 title: "Kyle Weise"
-image: "Kyle-headshot.jpg"
-links:
-  - label: LinkedIn
-    url: "https://linkedin.com/in/kyleweise1"
-  - label: Twitter
-    url: "https://twitter.com/kyleweise"
-  - label: GitHub
-    url: "https://github.com/kyleweise"
-  - label: Email
-    url: "mailto:kyleweise2@gmail.com"
+
 output:
   postcards::trestles
+site: distill::distill_website
 ---
- 
-## Bio
 
-```{r echo=F, results=F}
-birthday <- as.Date("1993-11-19")
-age <- round(as.numeric(difftime(Sys.Date(), birthday, units = "weeks"))/52.25)
-```
-
-I am a `r age` year-old software engineer originally from Brookfield, Connecticut. I currently work as an Associate Informatics Engineer at Rheos Medicines in Cambridge, MA where I live at the intersection of data engineering, application development, and immunometabolism. When I'm not coding, I enjoy traveling,
-playing soccer, and having too many craft-brewed IPAs.
-
-
-## Education
-
-**Northeastern Univeristy** | Boston, MA
-
-M.S. in Bioinformatics |  2016 - 2018
-
-**Eastern Connecticut State University** | Willimantic, CT
-
-B.S. in Computer Science |  2013 - 2016
-
-## Relevant Experience
-
-**Rheos Medicines** | Associate Informatics Engineer | Jul 2021 – Present
-
-**RCH Solutions** | Software Developer / Data Manager | Nov 2019 – Jun 2020
-
-**Heidelberg University, the Russell Lab**  | Research Intern (Protein Evolution) | Jun 2018 – Sep 2018
-
-**Celgene (now part of Bristol-Myers Squibb)** | Intern - Graduate 1st Year - Scientific | Jun 2017 – Dec 2017
+### coming soon 
